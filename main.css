@@ -5,4 +5,30 @@
 /* rule-set #1 */
 #thisisanid{
     color: purple;
+    border: 5px red dashed;
+    width: 300px; height: 100px;
+}
+
+#paddingproof{
+    background-color: cyan;
+    border: 2px green;
+    margin: 50px 50px 75px 25px;
+    /*
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 70px;
+    padding-left: 20px;
+    */
+}
+
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style:oblique;
+    color:blueviolet;
+}
+
+.background64{
+    color: whitesmoke;
+    background-image:url(https://cdn.dribbble.com/users/1162077/screenshots/4382009/animated-pattern_still_2x.gif?compress=1&resize=400x300)
+    /*I do not own this background image*/
 }
