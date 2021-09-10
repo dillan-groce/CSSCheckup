@@ -1,3 +1,8 @@
 .thisisaclass{
     background-color: blueviolet;
 }
+
+/* rule-set #1 */
+#thisisanid{
+    color: purple;
+}
